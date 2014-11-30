@@ -17,11 +17,16 @@ Acceptance criteria
 In order to confirm your program is working correctly, we have provided some test input and output for your use. Implement these details however you consider most appropriate.
 Test input:
 5 5
+
 1 2 N
+
 LMLMLMLMM
+
 3 3 E
+
 MMRMMRMRRM
 
 Expected output:
 1 3 N
+
 5 1 E
