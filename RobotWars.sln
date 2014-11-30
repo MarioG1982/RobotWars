@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotWars", "RobotWars\RobotWars.csproj", "{86D68E92-E1E3-4448-ABA6-1FE3B46A70EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{EBE21897-94A6-4A55-99C8-A05A77205F43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotWars.Tests", "RobotWars.Tests\RobotWars.Tests.csproj", "{194770AB-B091-47D8-BBDF-1118570B87FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{194770AB-B091-47D8-BBDF-1118570B87FD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{194770AB-B091-47D8-BBDF-1118570B87FD}.Debug|x86.Build.0 = Debug|Any CPU
+		{194770AB-B091-47D8-BBDF-1118570B87FD}.Release|x86.ActiveCfg = Release|Any CPU
+		{194770AB-B091-47D8-BBDF-1118570B87FD}.Release|x86.Build.0 = Release|Any CPU
+		{86D68E92-E1E3-4448-ABA6-1FE3B46A70EE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{86D68E92-E1E3-4448-ABA6-1FE3B46A70EE}.Debug|x86.Build.0 = Debug|Any CPU
+		{86D68E92-E1E3-4448-ABA6-1FE3B46A70EE}.Release|x86.ActiveCfg = Release|Any CPU
+		{86D68E92-E1E3-4448-ABA6-1FE3B46A70EE}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{194770AB-B091-47D8-BBDF-1118570B87FD} = {EBE21897-94A6-4A55-99C8-A05A77205F43}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = RobotWars\RobotWars.csproj
+	EndGlobalSection
+EndGlobal
